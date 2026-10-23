@@ -24,6 +24,6 @@
     "lazy-universal-dotenv": "^4.0.0",
     "react": "^19.0.0-rc-66855b96-20241106",
     "react-dom": "^19.0.0-rc-66855b96-20241106",
-    "storybook": "^9.1.4"
+    "storybook": "^9.1.21"
   }
 }
